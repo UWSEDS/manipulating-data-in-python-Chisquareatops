@@ -1,4 +1,7 @@
 # hw1-Chisquareatops
+
+### Grade: 7/7
+
 hw1-Chisquareatops created by GitHub Classroom
 
 DATA LOCATION
